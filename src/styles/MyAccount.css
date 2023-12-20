@@ -1,0 +1,70 @@
+.my-account-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h2 {
+  margin: 0;
+  color: #000;
+}
+
+.user-info {
+  margin-top: 20px;
+}
+
+.user-info p {
+  color: #333;
+  margin: 5px 0;
+}
+
+.user-info button {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #000;
+  padding: 5px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.user-info button:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+.order-history {
+  margin-top: 20px;
+}
+
+.order-history h3 {
+  color: #000;
+}
+
+.order-history p {
+  color: #333;
+}
+
+.order-history ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.order-history li {
+  margin-bottom: 5px;
+}
+
+button {
+  margin-top: 20px;
+  width: 100%;
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #000;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #000;
+  color: #fff;
+}
